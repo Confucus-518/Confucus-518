@@ -6,6 +6,9 @@
 * My other interests include basketball, math, music and manga
 * I'm particularly interested in Cybersecurity as it is such a wide domain to explore and learn about
 
+## Contact
+* **Email**:marcushh.chew@gmail.com
+
 ## Skills and Tools
 
 ### Operating Systems
@@ -48,9 +51,10 @@ and more...
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=ffffff)
 
-## Future projects 
+## Future projects
 * Calculator (C++)
 * Personal Website (React, JS, CSS, HTML)
 * Puzzle-solving algorithm (C++)
 * General-purpose Discord bot (Python)
 * Music recognition AI model (Python)
+* Plug-ins/basic malware (Lua)
