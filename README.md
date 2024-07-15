@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Marcus
 
 ## About me
-* Currently a Y5 Student studying in St Joseph's Institution
+* Currently a Y5 Student studying at St Joseph's Institution
 * My tech interests include Coding, Cybersecurity and Cloud
 * My other interests include basketball, math, music and manga
 * I'm particularly interested in Cybersecurity as it is such a wide domain to explore and learn about
@@ -21,6 +21,9 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=ffffff)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=ffffff)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=ffffff)
+
+### Frameworks
+![React](https://img.shields.io/badge/-React-5391FE?logo=react&logoColor=ffffff)
 
 ### Cybersecurity Tools
 
@@ -44,3 +47,10 @@ and more...
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=ffffff)
+
+## Future projects 
+* Calculator (C++)
+* Personal Website (React, JS, CSS, HTML)
+* Puzzle-solving algorithm (C++)
+* General-purpose Discord bot (Python)
+* Music recognition AI model (Python)
