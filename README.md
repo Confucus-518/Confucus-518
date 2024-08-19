@@ -5,7 +5,7 @@
 * My tech interests include Coding, Cybersecurity and Cloud
 * My other interests include basketball, math, music and manga
 * I'm particularly interested in Cybersecurity as it is such a wide domain to explore and learn about
-* Currently learning algo basics using MIT OCW and basic rust
+* Currently learning algo basics using MIT OCW and basic R
 
 ## Contact
 * **Email**:marcushh.chew@gmail.com
