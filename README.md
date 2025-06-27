@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Marcus
 
 ## About me
-* Currently a Y5 Student studying at St Joseph's Institution
+* Currently a Y6 Student studying at St Joseph's Institution
 * My tech interests include Coding, Cybersecurity and Cloud
 * My other interests include basketball, math, music and manga
 * I'm particularly interested in Cybersecurity as it is such a wide domain to explore and learn about
