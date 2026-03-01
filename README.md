@@ -1,11 +1,10 @@
 # Hi there 👋 I'm Marcus
 
 ## About me
-* Currently a Y6 Student studying at St Joseph's Institution
+* Currently a firefighter in the SCDF, serving National Service in Singapore
 * My tech interests include Coding, Cybersecurity and Cloud
 * My other interests include basketball, math, music and manga
 * I'm particularly interested in Cybersecurity as it is such a wide domain to explore and learn about
-* Currently learning algo basics using MIT OCW and basic R
 
 ## Contact
 * **Email**:marcushh.chew@gmail.com
